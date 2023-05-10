@@ -1,0 +1,19 @@
+@import "./navbar.css";
+@import "./maincontent.css";
+@import "./footer.css";
+
+:root{
+    --black: #202020;
+    --white: #ffffff;
+    --beige: #E8D5C4;
+    
+
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+        font-family: var(--font);
+       background-color: var(--beige);
+     }
+

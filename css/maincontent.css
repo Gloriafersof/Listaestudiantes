@@ -1,0 +1,53 @@
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.section-description{
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.section-title h1.title{
+
+   align-items: center;
+   justify-content: space-between;
+   margin-left: 20px;
+   border:30px;
+   background-color: rgb(185, 27, 27);
+   color: aliceblue;
+   font-size: 50px;
+ 
+}
+   
+   
+
+.section-paragraph{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-right: 12px;
+}
+
+.imagen{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    align-content: center;
+    margin-left: 200px;
+}
+
+.estudiantes{
+    background-color: rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 30px;
+    color: aliceblue;
+}
